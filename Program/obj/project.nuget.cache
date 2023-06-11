@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bt/v81JNBIy6FPtAi1fFiNwdcr83rjV0WwVDZCUD0EaVQ2TPT8BnvzT/80P+HgBayh5EV+6K2KIWJHddto92gg==",
+  "dgSpecHash": "q27tya3X988xDWrecb5GBKa4s14av3/NWo3zMm6kAjwechDfRRoXaAQ08M7q53TRsITRpT4XagTrraC+o/sV+Q==",
   "success": true,
-  "projectFilePath": "C:\\Project\\Carlos\\meeting-1\\Program\\Program.csproj",
+  "projectFilePath": "C:\\Project\\Carlos\\test\\basicOOP\\Program\\Program.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Project\\Carlos\\meeting-1\\Program\\Program.csproj": {}
+    "C:\\Project\\Carlos\\test\\basicOOP\\Program\\Program.csproj": {}
   },
   "projects": {
-    "C:\\Project\\Carlos\\meeting-1\\Program\\Program.csproj": {
+    "C:\\Project\\Carlos\\test\\basicOOP\\Program\\Program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Project\\Carlos\\meeting-1\\Program\\Program.csproj",
+        "projectUniqueName": "C:\\Project\\Carlos\\test\\basicOOP\\Program\\Program.csproj",
         "projectName": "Program",
-        "projectPath": "C:\\Project\\Carlos\\meeting-1\\Program\\Program.csproj",
+        "projectPath": "C:\\Project\\Carlos\\test\\basicOOP\\Program\\Program.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Project\\Carlos\\meeting-1\\Program\\obj\\",
+        "outputPath": "C:\\Project\\Carlos\\test\\basicOOP\\Program\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
